@@ -75,7 +75,7 @@
     "@codemirror/lang-markdown": "^6.3.2",
     "@formkit/auto-animate": "^0.8.2",
     "@number-flow/svelte": "^0.2.1",
-    "@scalar/express-api-reference": "^0.4.167",
+    "@scalar/express-api-reference": "^0.8.4",
     "@uiw/codemirror-theme-github": "^4.23.10",
     "analytics": "^0.8.14",
     "axios": "^1.6.2",
