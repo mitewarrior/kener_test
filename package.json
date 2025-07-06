@@ -82,7 +82,7 @@
     "badge-maker": "^3.3.1",
     "bcrypt": "^5.1.1",
     "better-sqlite3": "^11.5.0",
-    "bits-ui": "^0.9.9",
+    "bits-ui": "^0.22.0",
     "cheerio": "^1.0.0",
     "clsx": "^2.0.0",
     "croner": "^7.0.5",
