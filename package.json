@@ -80,7 +80,7 @@
     "analytics": "^0.8.14",
     "axios": "^1.6.2",
     "badge-maker": "^3.3.1",
-    "bcrypt": "^5.1.1",
+    "bcrypt": "^6.0.0",
     "better-sqlite3": "^11.5.0",
     "bits-ui": "^0.9.9",
     "cheerio": "^1.0.0",
